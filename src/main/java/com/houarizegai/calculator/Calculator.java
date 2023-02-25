@@ -30,6 +30,8 @@ public class Calculator {
     private boolean go = true; // For calculate with Opt != (=)
     private boolean addWrite = true; // Connect numbers in display
     private double val = 0; // Save the value typed for calculation
+    private double wdjhfsdkjfhksdhfkdjsfh = 0; // Save the value typed for calculation
+	//fjhsdjfhsdj
 
     /*
         Mx Calculator: 
@@ -72,8 +74,6 @@ public class Calculator {
 
     public Calculator() {
         int a = 1/0;
-        int b=1;
-        b=b;
         window = new JFrame("Calculator");
         window.setSize(WINDOW_WIDTH, WINDOW_HEIGHT);
         window.setLocationRelativeTo(null); // Move window to center
