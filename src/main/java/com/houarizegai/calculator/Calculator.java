@@ -66,6 +66,9 @@ public class Calculator {
          x[0] x[1] x[2] x[3]
     
     */
+    public Integer f(Integer p) {
+	    return true ? p : 5;
+    }
 
     public Calculator() {
         int a = 1/0;
