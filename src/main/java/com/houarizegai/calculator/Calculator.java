@@ -69,7 +69,8 @@ public class Calculator {
 
     public Calculator() {
         int a = 1/0;
-        int b=b;
+        int b=1;
+        b=b;
         window = new JFrame("Calculator");
         window.setSize(WINDOW_WIDTH, WINDOW_HEIGHT);
         window.setLocationRelativeTo(null); // Move window to center
